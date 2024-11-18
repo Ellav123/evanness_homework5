@@ -1,6 +1,7 @@
 # DATA FOLDER
 
 ## FOLDERS
+source data: "kaggle.com"
 
 ## raw
 original, unmodiefied data after downloading,scaping,etc
