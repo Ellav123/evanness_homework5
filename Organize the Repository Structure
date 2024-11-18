@@ -1,0 +1,23 @@
+#organize repository structure
+
+data-analytics-template/
+│
+├── data/               # For storing raw and processed data
+│   ├── raw/            # Raw data files
+│   └── processed/      # Processed data files
+│
+├── notebooks/          # Jupyter notebooks (.ipynb files)
+│   └── example_notebook.ipynb
+│
+├── scripts/            # Python scripts for data processing
+│
+├── docs/               # Documentation, e.g., data dictionaries
+│   └── data_dictionary.md
+│
+├── changelog.md        # Change log for the project
+│
+├── todo.md             # To-do list for the project
+│
+├── .gitignore          # File to ignore unnecessary files in version control
+│
+└── README.md           # Main README file with project details
