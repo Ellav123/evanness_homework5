@@ -10,7 +10,6 @@ data after all cleaning, processing, and analyzing
 
 # Data Dictionary
 
-# Data Dictionary
 
 | Field        | Description                     | Sample Data       |
 |--------------|---------------------------------|-------------------|
