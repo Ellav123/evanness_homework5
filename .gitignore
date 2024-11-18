@@ -42,8 +42,24 @@ vignettes/*.pdf
 # pkgdown site
 docs/
 
+
+
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+# Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+
+# Environment files
+.env
+*.env
