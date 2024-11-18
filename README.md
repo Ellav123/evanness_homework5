@@ -1,5 +1,5 @@
-# evanness_homework5
-echo "# evanness_hw5" >> README.md
+# Data Analytics Template
+echo "# data-analytics-template" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
